@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  myboilerplate:
+    image: ${DOCKER_REGISTRY-}myboilerplate
+    build:
+      context: .
+      dockerfile: MyBoilerplate/Dockerfile
