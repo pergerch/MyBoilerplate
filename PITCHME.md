@@ -19,9 +19,9 @@ Nov 2018
 
 ![](docs/docker-storage.png "Docker Storage")
 
-- Volumes - stored in a part of the host filesystem BUT managed by Docker
-- Bind mount – “shared” folder from the host. Non-Docker processes on the host can modify them at any time
-- Tmpfs - in the host system’s memory only
+- @size[.7em](Volumes - stored in a part of the host filesystem BUT managed by Docker)
+- @size[.7em](Bind mount – “shared” folder from the host. Non-Docker processes on the host can modify them at any time)
+- @size[.7em](Tmpfs - in the host system’s memory only)
 
 ---
 
