@@ -100,10 +100,10 @@ Nov 2018
 
 ### MyBoilerplate
 
-#### [https://github.com/pergerch/MyBoilerplate](https://github.com/pergerch/MyBoilerplate)
+[https://github.com/pergerch/MyBoilerplate](https://github.com/pergerch/MyBoilerplate)
 
 - @size[.7em](ASP.NET Core 2.1 API)
-- @size[.7em](Docker)
+- @size[.7em](Docker compose)
 - @size[.7em](Settings (Appsettings, Environment variables, Options Pattern))
 - @size[.7em](Automapper)
 - @size[.7em](SEQ Logging)
