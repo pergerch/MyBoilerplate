@@ -3,5 +3,9 @@
 }
 
 .reveal section>ul>li>ul>li {
-  font-size: 50%;
+  font-size: 70%;
+}
+
+.reveal section>ul>li>ul>li {
+  font-size: 70%;
 }
