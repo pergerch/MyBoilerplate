@@ -1,7 +1,7 @@
-section>ul>li {
+.reveal section>ul>li {
   font-size: 70%;
 }
 
-section>ul>li>ul>li {
+.reveal section>ul>li>ul>li {
   font-size: 50%;
 }
