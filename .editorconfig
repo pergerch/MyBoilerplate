@@ -13,22 +13,27 @@ insert_final_newline = false
 
 # Code files
 [*.{cs,csx,vb,vbx}]
+tab_width = 4
 indent_size = 4
 
 # Xml project files
 [*.{csproj,vbproj,vcxproj,vcxproj.filters,proj,projitems,shproj}]
+tab_width = 2
 indent_size = 2
 
 # Xml config files
 [*.{props,targets,ruleset,config,nuspec,resx,vsixmanifest,vsct}]
+tab_width = 2
 indent_size = 2
 
 # JSON files
 [*.json]
+tab_width = 2
 indent_size = 2
 
 # JS and TS files
 [*.{js,ts}]
+tab_width = 2
 indent_size = 2
 
 # Dotnet code style settings:
