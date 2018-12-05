@@ -48,6 +48,7 @@ namespace MyBoilerplate.Controllers
 				RootDir = ServiceOptions.DirectoryRoot,
 				FilesPath = Url.Action(nameof(GetFiles)),
 				ItemsPath = Url.Action(nameof(GetItems)),
+				HealthChecks = "/health",
 			};
 
 			return Ok(config);

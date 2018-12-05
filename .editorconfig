@@ -36,6 +36,12 @@ indent_size = 2
 tab_width = 2
 indent_size = 2
 
+# YML config files (e.g. docker-compose)
+[*.yml]
+indent_style = space
+tab_width = 2
+indent_size = 2
+
 # Dotnet code style settings:
 [*.{cs,vb}]
 # Sort using and Import directives with System.* appearing first
