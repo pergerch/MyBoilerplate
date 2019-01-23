@@ -6,3 +6,5 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
       - "80"
+    volumes:
+      - C:/temp3/boilerplate:/data
